@@ -1,0 +1,15 @@
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\bin\Debug\net10.0\SwiftCollab.PriorityQueue.exe
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\bin\Debug\net10.0\SwiftCollab.PriorityQueue.deps.json
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\bin\Debug\net10.0\SwiftCollab.PriorityQueue.runtimeconfig.json
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\bin\Debug\net10.0\SwiftCollab.PriorityQueue.dll
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\bin\Debug\net10.0\SwiftCollab.PriorityQueue.pdb
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.AssemblyInfoInputs.cache
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.AssemblyInfo.cs
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.csproj.CoreCompileInputs.cache
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.sourcelink.json
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.dll
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\refint\SwiftCollab.PriorityQueue.dll
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.pdb
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\SwiftCollab.PriorityQueue.genruntimeconfig.cache
+D:\MyLearning\C#\DataStructuresAndAlgorithms\DSAProjectCoursera\swiftcollab.priorityqueue\obj\Debug\net10.0\ref\SwiftCollab.PriorityQueue.dll

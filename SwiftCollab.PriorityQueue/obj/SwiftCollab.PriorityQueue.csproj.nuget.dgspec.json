@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.tasktreeoptimzer\\SwiftCollab.TaskTreeOptimzer.csproj": {}
+    "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.priorityqueue\\SwiftCollab.PriorityQueue.csproj": {}
   },
   "projects": {
-    "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.tasktreeoptimzer\\SwiftCollab.TaskTreeOptimzer.csproj": {
+    "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.priorityqueue\\SwiftCollab.PriorityQueue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.tasktreeoptimzer\\SwiftCollab.TaskTreeOptimzer.csproj",
-        "projectName": "SwiftCollab.TaskTreeOptimzer",
-        "projectPath": "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.tasktreeoptimzer\\SwiftCollab.TaskTreeOptimzer.csproj",
+        "projectUniqueName": "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.priorityqueue\\SwiftCollab.PriorityQueue.csproj",
+        "projectName": "SwiftCollab.PriorityQueue",
+        "projectPath": "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.priorityqueue\\SwiftCollab.PriorityQueue.csproj",
         "packagesPath": "C:\\Users\\saiki\\.nuget\\packages\\",
-        "outputPath": "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.tasktreeoptimzer\\obj\\",
+        "outputPath": "D:\\MyLearning\\C#\\DataStructuresAndAlgorithms\\DSAProjectCoursera\\swiftcollab.priorityqueue\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
